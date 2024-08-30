@@ -74,54 +74,28 @@
             color: black;
         }
 
-        .navbar a.cart {
-            float: right;
-        }
-
-        .product-list {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            margin: 20px;
-        }
-
-        .product-item {
-            background-color: #fff5ee;
-            border: 1px solid #ccc;
-            border-radius: 10px;
-            margin: 10px;
-            padding: 20px;
-            width: 250px;
-            text-align: center;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        .product-item img {
+        table {
             width: 100%;
-            border-radius: 10px;
+            margin-top: 20px;
+            border-collapse: collapse;
         }
 
-        .product-item h3 {
-            color: #333;
+        table, th, td {
+            border: 1px solid black;
         }
 
-        .product-item p {
-            color: #666;
-            margin: 10px 0;
+        th, td {
+            padding: 15px;
+            text-align: left;
         }
 
-        .product-item button {
-            background-color: #ff4500;
+        th {
+            background-color: #4CAF50;
             color: white;
-            padding: 10px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            width: 100%;
         }
 
-        .product-item button:hover {
-            background-color: #e63600;
+        td {
+            background-color: #f2f2f2;
         }
     </style>
 </head>
@@ -131,7 +105,6 @@
         <a href="#about">About</a>
         <a href="#services">Services</a>
         <a href="#contact">Contact</a>
-        <a href="#cart" class="cart">🛒 Cart</a>
     </div>
 
     <h1>Welcome to Archana's Team</h1>
@@ -147,34 +120,6 @@
         <button type="submit">Login</button>
     </div>
 
-    <h2 style="text-align:center; color:darkorange;">Products</h2>
-    <div class="product-list">
-        <div class="product-item">
-            <img src="https://via.placeholder.com/250" alt="Product 1">
-            <h3>Product 1</h3>
-            <p>$19.99</p>
-            <button>Add to Cart</button>
-        </div>
-        <div class="product-item">
-            <img src="https://via.placeholder.com/250" alt="Product 2">
-            <h3>Product 2</h3>
-            <p>$29.99</p>
-            <button>Add to Cart</button>
-        </div>
-        <div class="product-item">
-            <img src="https://via.placeholder.com/250" alt="Product 3">
-            <h3>Product 3</h3>
-            <p>$39.99</p>
-            <button>Add to Cart</button>
-        </div>
-        <div class="product-item">
-            <img src="https://via.placeholder.com/250" alt="Product 4">
-            <h3>Product 4</h3>
-            <p>$49.99</p>
-            <button>Add to Cart</button>
-        </div>
-    </div>
-
     <table>
         <tr>
             <th>Team Member</th>
@@ -183,18 +128,18 @@
         </tr>
         <tr>
             <td>Archana</td>
-            <td>Project Manager</td>
-            <td>archana@example.com</td>
+            <td>Team lead</td>
+            <td>archana@gmail.com</td>
         </tr>
         <tr>
-            <td>John Doe</td>
-            <td>Developer</td>
-            <td>john@example.com</td>
+            <td>Lakshman Kandula</td>
+            <td>Jr.DevOps Enginner</td>
+            <td>lakshman7777@gmail.com</td>
         </tr>
         <tr>
-            <td>Jane Smith</td>
-            <td>Designer</td>
-            <td>jane@example.com</td>
+            <td>Narasimharao Konde</td>
+            <td>Jr.DevOps</td>
+            <td>kondenarasimharao1234@gmail.com</td>
         </tr>
     </table>
 </body>
