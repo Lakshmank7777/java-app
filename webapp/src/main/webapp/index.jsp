@@ -128,18 +128,18 @@
         </tr>
         <tr>
             <td>Archana</td>
-            <td>Project Manager</td>
-            <td>archana@example.com</td>
+            <td>Team lead</td>
+            <td>archana@gmail.com</td>
         </tr>
         <tr>
-            <td>John Doe</td>
-            <td>Developer</td>
-            <td>john@example.com</td>
+            <td>Lakshman Kandula</td>
+            <td>Jr.DevOps Enginner</td>
+            <td>lakshman7777@gmail.com</td>
         </tr>
         <tr>
-            <td>Jane Smith</td>
-            <td>Designer</td>
-            <td>jane@example.com</td>
+            <td>Narasimharao Konde</td>
+            <td>Jr.DevOps</td>
+            <td>kondenarasimharao1234@gmail.com</td>
         </tr>
     </table>
 </body>
