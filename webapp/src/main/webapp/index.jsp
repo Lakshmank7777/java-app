@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Archana's Team</title>
+    <title>Welcome to Gomanth's Team</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -107,7 +107,7 @@
         <a href="#contact">Contact</a>
     </div>
 
-    <h1>Welcome to Archana's Team</h1>
+    <h1>Welcome to Gomanth's Team</h1>
     <h2>Pool SCM</h2>
 
     <div class="container">
@@ -127,9 +127,9 @@
             <th>Contact</th>
         </tr>
         <tr>
-            <td>Archana</td>
+            <td>Gomanth</td>
             <td>Team lead</td>
-            <td>archana@gmail.com</td>
+            <td>gomanthsai02@gmail.com</td>
         </tr>
         <tr>
             <td>Lakshman Kandula</td>
@@ -137,9 +137,9 @@
             <td>lakshman7777@gmail.com</td>
         </tr>
         <tr>
-            <td>Narasimharao Konde</td>
-            <td>Jr.DevOps</td>
-            <td>kondenarasimharao1234@gmail.com</td>
+            <td>Murthy</td>
+            <td>Backend developer</td>
+            <td>murthy.ksn@gmail.com</td>
         </tr>
     </table>
 </body>
